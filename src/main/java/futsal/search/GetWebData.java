@@ -27,6 +27,5 @@ public class GetWebData {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-
 	}
 }
